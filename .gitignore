@@ -1,0 +1,14 @@
+# Local configuration
+config/config.php
+
+# VS Code settings
+.vscode/
+
+# Local database files
+*.sql
+
+# Environment files
+.env
+
+# Logs
+*.log
